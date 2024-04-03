@@ -12,8 +12,8 @@
 		6C8553DF2BBD52840097A654 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C8553DE2BBD52840097A654 /* Assets.xcassets */; };
 		6C8553E22BBD52840097A654 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C8553E12BBD52840097A654 /* Preview Assets.xcassets */; };
 		6C8553EC2BBD52840097A654 /* iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8553EB2BBD52840097A654 /* iOSTests.swift */; };
-		6C8553F62BBD52840097A654 /* iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8553F52BBD52840097A654 /* iOSUITests.swift */; };
 		6C8553F82BBD52840097A654 /* iOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8553F72BBD52840097A654 /* iOSUITestsLaunchTests.swift */; };
+		6CBFC1192BBD62C8004FCEAF /* iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C8553F52BBD52840097A654 /* iOSUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -275,7 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C8553F82BBD52840097A654 /* iOSUITestsLaunchTests.swift in Sources */,
-				6C8553F62BBD52840097A654 /* iOSUITests.swift in Sources */,
+				6CBFC1192BBD62C8004FCEAF /* iOSUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
